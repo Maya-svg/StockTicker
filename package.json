@@ -3,9 +3,9 @@
     "async": "^3.2.2",
     "mongodb": "^4.2.1"
   },
-  "name": "stockticker",
+  "name": "process.js",
   "version": "1.0.0",
-  "main": "readFile.js",
+  "main": "process.js",
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
