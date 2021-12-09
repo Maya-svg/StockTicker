@@ -8,7 +8,7 @@
   "description": "my sample node app",
   "main": "processH.js",
   "scripts": {
-  "start": "processH.js"
+  "start": " node processH.js"
    "test": "echo \"Error: no test specified\" && exit 1"
 },
   "repository": {
