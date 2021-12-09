@@ -1,4 +1,8 @@
 {
+  "dependencies": {
+    "async": "^3.2.2",
+    "mongodb": "^4.2.1"
+  },
   "name": "processH.js",
   "version": "1.0.0",
   "description": "my sample node app",
@@ -16,4 +20,4 @@
   "url": ""
 },
   "homepage": ""
-}// JSON Document
+}
