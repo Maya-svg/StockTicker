@@ -3,22 +3,15 @@
     "async": "^3.2.2",
     "mongodb": "^4.2.1"
   },
-  "name": "processH.js",
+  "name": "stockticker",
   "version": "1.0.0",
-  "description": "my sample node app",
-  "main": "processH.js",
+  "main": "readFile.js",
+  "devDependencies": {},
   "scripts": {
-  "start": " node processH.js"
-   "test": "echo \"Error: no test specified\" && exit 1"
-},
-  "repository": {
-  "type": "git",
-  "url": ""
-},
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-  "url": ""
-},
-  "homepage": ""
+  "description": ""
 }
