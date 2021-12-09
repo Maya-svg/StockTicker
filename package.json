@@ -3,7 +3,7 @@
     "async": "^3.2.2",
     "mongodb": "^4.2.1"
   },
-  "name": "stockticker",
+  "name": "processH.js",
   "version": "1.0.0",
   "main": "processH.js",
   "devDependencies": {},
