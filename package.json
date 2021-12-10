@@ -3,7 +3,7 @@
     "async": "^3.2.2",
     "mongodb": "^4.2.1"
   },
-  "name": "processH.js",
+  "name": "stock-ticker14",
   "version": "1.0.0",
   "main": "processH.js",
   "devDependencies": {},
@@ -20,5 +20,5 @@
   "author": "",
   "license": "ISC",
   "description": "",
-  "homepage": "https://maya-svg.github.io/assignment14/form.html"
+  
 }
