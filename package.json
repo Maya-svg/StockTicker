@@ -8,7 +8,7 @@
   "main": "processH.js",
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
     "start":"node processH.js"
   },
    "repository": {
@@ -19,6 +19,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
   "homepage": "https://maya-svg.github.io/assignment14/form.html"
 }
